@@ -11,11 +11,11 @@
 - Tenho como objetivo desenvolver programas que contribuam para facilitar o dia a dia das pessoas e das empresas. 
 
 <br>
-* Meu Cartão de Estatísticas:
+###Meu Cartão de Estatísticas:
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipedclc" />
 <br>
-* Meu cartão de linguagens:
+###Meu cartão de linguagens:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedclc" />
 
 <!-- * Meu Cartão de Estatísticas:
