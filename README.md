@@ -9,7 +9,6 @@
 
 <hr>
 <br>
-<img align="center" widith="50px" src="https://tenor.com/view/gatinho-gato-gato-e-computador-computer-cat-gif-22185203" />
 
 - Sou formado em engenharia ambiental.
 
