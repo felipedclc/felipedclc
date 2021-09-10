@@ -4,9 +4,12 @@
 
 ### Eu sou o Felipe e estudo desenvolvimento de software na Trybe.
 
-<div class="tenor-gif-embed" data-postid="22185203" data-share-method="host" data-aspect-ratio="1" data-width="50px%"><a href="https://tenor.com/view/gatinho-gato-gato-e-computador-computer-cat-gif-22185203">Gatinho Gato GIF</a>from <a href="https://tenor.com/search/gatinho-gifs">Gatinho GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/felipe-de-carvalho-lopes-cardoso/)
+
+<hr>
+<br>
+<img align="center" widith="50px" src="https://tenor.com/view/gatinho-gato-gato-e-computador-computer-cat-gif-22185203" />
 
 - Sou formado em engenharia ambiental.
 
