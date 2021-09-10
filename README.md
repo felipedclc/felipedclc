@@ -1,9 +1,8 @@
-# Hello World!
+# <img src="https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/10385/0cbdbf59dba1246510c5f6e0902bc11ba804bfeb.gif?1534286330" alt="crazy cat on pc"  width="150" />
 
-## Seja bem vindo ao meu profile! <img src="https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/10385/0cbdbf59dba1246510c5f6e0902bc11ba804bfeb.gif?1534286330" alt="crazy cat on pc"  width="100" />
+## Seja bem vindo ao meu profile! 
 
 ### Eu sou o Felipe e estudo desenvolvimento de software na Trybe.
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/felipe-de-carvalho-lopes-cardoso/)
 
