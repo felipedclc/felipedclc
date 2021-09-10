@@ -9,6 +9,8 @@
 
 <img src="https://tenor.com/GXUb.gif" alt="crazy cat on pc"  width="100" />
 
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+
 <hr>
 
 - Sou formado em engenharia ambiental.
