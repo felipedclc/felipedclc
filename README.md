@@ -1,8 +1,10 @@
 # Hello World!
 
-## Seja bem vindo ao meu profile! 
+## Seja bem vindo ao meu profile!
 
 ### Eu sou o Felipe e estudo desenvolvimento de software na Trybe.
+
+<img align="center" widith="50px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Ffortnitebras239%2Fpage%2Fuser%2Fgato-no-computador%2FRrdk_7wlSJfLgo2wgarno6NlVdgq05Xa3Xafb&psig=AOvVaw3IuNBMS_l0bkCOVM08MOHP&ust=1631385780304000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjDneaH9fICFQAAAAAdAAAAABAD" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/felipe-de-carvalho-lopes-cardoso/)
 
@@ -10,7 +12,7 @@
 
 - Estudo para ser desenvolvedor desde o início de 2020, no fim do mesmo ano ingressei no curso da Trybe 🚀. 
 
-- Tenho como objetivo desenvolver programas que contribuam para facilitar o dia a dia das pessoas e das empresas. 
+- Desenvolvi projetos em front-end com o React mas minha verdadeira paixão é o back-end - (Node, Java).
 
 <br>
 <h4> Meu Cartão de Estatísticas: </h3>
