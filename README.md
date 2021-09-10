@@ -14,7 +14,7 @@
 
 - Desenvolvi projetos em front-end com o React mas minha verdadeira paixão é o back-end - (Node, Java).
 
-#### <img src="https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/10385/0cbdbf59dba1246510c5f6e0902bc11ba804bfeb.gif?1534286330" alt="crazy cat on pc"   style="width: 250px; height: 250px;" />
+#### <img src="https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/10385/0cbdbf59dba1246510c5f6e0902bc11ba804bfeb.gif?1534286330" alt="crazy cat on pc"   style="width: 200px; height: 150px;" />
 
 <br>
 <h4> Meu Cartão de Estatísticas: </h3>
