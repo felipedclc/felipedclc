@@ -7,9 +7,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/felipe-de-carvalho-lopes-cardoso/)
 
-<img src="https://tenor.com/GXUb.gif" alt="crazy cat on pc"  width="100" />
-
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+<img src=https://tenor.com/GXUb.gif alt="crazy cat on pc"  width="50" />
 
 <hr>
 
